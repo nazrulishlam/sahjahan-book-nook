@@ -27,14 +27,14 @@ const ContactSection = () => {
                 <Phone className="h-6 w-6 text-bookstore-navy" />
                 <div>
                   <h3 className="font-semibold text-bookstore-navy">Phone</h3>
-                  <p className="text-bookstore-text">+91 1234567890</p>
+                  <p className="text-bookstore-text">+91 9475063722</p>
                 </div>
               </Card>
               <Card className="p-4 flex items-start space-x-4">
                 <Mail className="h-6 w-6 text-bookstore-navy" />
                 <div>
                   <h3 className="font-semibold text-bookstore-navy">Email</h3>
-                  <p className="text-bookstore-text">contact@sahjahanbooks.com</p>
+                  <p className="text-bookstore-text">nazrulpandua@gmail.com</p>
                 </div>
               </Card>
             </div>
